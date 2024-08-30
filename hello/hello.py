@@ -46,7 +46,7 @@ def hello_world():
 # goodbye instead of hello.
 def goodbye_world():
     """Print "Goodbye, world!"."""
-    pass
+    print("Goodbye, world!")
 
 
 # This is a function, with an optional argument ``entity`` which has a
